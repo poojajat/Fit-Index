@@ -1,0 +1,12 @@
+import 'package:flutter/material.dart';
+const double kBottomHeight = 80;
+const kActiveCardColor = Color(0xFF151A3C);
+const kInActiveColor = Color(0XFF272A4D);
+const kBottomContainerColor = Color(0xFFFF0066);
+const kLabelTextStyle=TextStyle(fontSize: 18, color: Color(0xFF8D8E98),fontWeight: FontWeight.w900);
+const kBigTextStyle=TextStyle(fontSize: 50, fontWeight: FontWeight.w900);
+const kLargeButtonTextStyle=TextStyle(fontSize: 20, fontWeight: FontWeight.w500, color: Colors.white);
+const kTitleTextStyle=TextStyle(fontSize: 35, fontWeight: FontWeight.bold, color: Colors.white);
+const kTopTitle=TextStyle(fontSize: 20, fontWeight: FontWeight.bold, color: Colors.blue);
+const kBMI=TextStyle(fontSize: 80, fontWeight: FontWeight.bold);
+const kBottomTitle=TextStyle(fontSize: 22, fontWeight: FontWeight.bold, color: Colors.white);
